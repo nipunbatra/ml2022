@@ -1,16 +1,16 @@
 ---
 layout: about
 permalink: /
-title: Machine Learning Spring 2021
+title: Machine Learning Spring 2022
 description: ES 654
 ---
 
 
 
 *   Instructor: Nipun Batra (nipun.batra@iitgn.ac.in)
-*   Teaching Assistants: Pankaj Pandey (pankaj.p@iitgn.ac.in), Jaideep Bankoti (bankoti_jaideep@iitgn.ac.in), Rishiraj Adhikary (rishiraj.a@iitgn.ac.in), 
-*   Course Timings: Thursday and Friday (5 PM to 6:30 PM)  
-*   MS Teams code: dr1od52 
+*   Teaching Assistants: Zeel Patel, Rishiraj Adhikary (rishiraj.a@iitgn.ac.in), Shriraj Sawant, Hetvi Shastri
+*   Course Timings: Monday (10:05 AM - 11 AM), Wednesday (9:05 AM - 10 AM), Thursday (10:05 - 11 AM)
+*   Google Classroom code: jclv62l
 
 
 * * * 
