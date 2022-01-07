@@ -8,8 +8,17 @@ description: "Education is what remains after one has forgotten what one has lea
 
 |  Lecture # | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |
-|1| 7 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EUx2sCzt_q5PtOrs0nAt2ZwBDpWFlMtBDRyLEntX1fnsnA?e=zztK7J)]|
-|2| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EZumMu2qlA5GnRjYX3Y49NoBKzudD_OvykTW4c6A-9sp-A?e=9xBq2j)]|
+|1| 5 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1qv6sDH12C3Cw2EIcBGFOWHMMbO53JHgk/view?usp=sharing)]|
+|2| 6 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1kqmYZGIh_094UpVOvsFSJuJVI_vB-KlW/view?usp=sharing)]|
+
+{% comment %}
+This is a long comment string 
+
+Newline
+
+Stuff
+
+|3| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EZumMu2qlA5GnRjYX3Y49NoBKzudD_OvykTW4c6A-9sp-A?e=9xBq2j)]|
 |3| 15 Jan| Decision Tree 1 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbGpNzErCplEgUJjM0LfScABWM8-0GJaPz9YgNv3zBNgOw)]|
 |4| 16 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbMdXJ4zF8VArX7ATDZXEvIBEdwciOj2DcXBxVj2QT3L8g?e=wKHWsK)]|
 |5| 22 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ET9ZuKGdQppKgOx1Jq7lDXIBfKzenXfc7owKZxLPkm1cgw?e=TictRi)]|
@@ -36,3 +45,4 @@ description: "Education is what remains after one has forgotten what one has lea
 |26| 23 Apr | KNN [[Slides](../lectures/30-knn.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbLIrkWnrsJHmcYyfM95qIwBv_NBvfni95rEB6xI-l6GaA?e=TEQm70)] |
 |27| 24 Apr | SVM [[Slides](../lectures/svm-intro.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EZ3-e1RuqMtLp0M2_7qRFrEBGanIxTg8oO1pu4XGR5Y74g?e=IrlDUe)] |
 |28| 25 Apr | SVM kernel and soft margin [[Slides 1](../lectures/svm-kernel.pdf)] [[Slides 2](../lectures/svm-soft-margin.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ERTPuf5Tx7ZAv9hpJWm5BssBZnJ4RBs9ntySOcJ_lxUcDA?e=7yF2T6)] |
+{% endcomment %}
