@@ -5,12 +5,17 @@ title: Lectures
 description: "Education is what remains after one has forgotten what one has learned in school."
 ---
 
+Folder containing recordings:
+https://drive.google.com/drive/folders/1xC6qiifQGrpoYb1-TVeMQmyYi2c9Nk7j?usp=sharing
+
+Folder containing spreadsheets:
+https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sharing
 
 |  Lecture # | Date | Topic | Reading |
 | --- | --- | --- | --- | --- |
 |1| 5 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1qv6sDH12C3Cw2EIcBGFOWHMMbO53JHgk/view?usp=sharing)]|
 |2| 6 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1kqmYZGIh_094UpVOvsFSJuJVI_vB-KlW/view?usp=sharing)]|
-
+|3| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)]Video: https://iitgn-ac-in.zoom.us/rec/share/z0AeNu-ZC65OMQWpEKdnHpdyeVGY5AO8173M4ot-6lIzFoulsQhWZHISedIF-GqN.rV3c6_vdBdfuG4A2 Passcode: 01z6%z6@ 
 {% comment %}
 This is a long comment string 
 
@@ -18,7 +23,7 @@ Newline
 
 Stuff
 
-|3| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EZumMu2qlA5GnRjYX3Y49NoBKzudD_OvykTW4c6A-9sp-A?e=9xBq2j)]|
+
 |3| 15 Jan| Decision Tree 1 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbGpNzErCplEgUJjM0LfScABWM8-0GJaPz9YgNv3zBNgOw)]|
 |4| 16 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbMdXJ4zF8VArX7ATDZXEvIBEdwciOj2DcXBxVj2QT3L8g?e=wKHWsK)]|
 |5| 22 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ET9ZuKGdQppKgOx1Jq7lDXIBfKzenXfc7owKZxLPkm1cgw?e=TictRi)]|
