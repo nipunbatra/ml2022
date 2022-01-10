@@ -15,7 +15,8 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 | --- | --- | --- | --- | --- |
 |1| 5 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1qv6sDH12C3Cw2EIcBGFOWHMMbO53JHgk/view?usp=sharing)]|
 |2| 6 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1kqmYZGIh_094UpVOvsFSJuJVI_vB-KlW/view?usp=sharing)]|
-|3| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)]Video: https://iitgn-ac-in.zoom.us/rec/share/z0AeNu-ZC65OMQWpEKdnHpdyeVGY5AO8173M4ot-6lIzFoulsQhWZHISedIF-GqN.rV3c6_vdBdfuG4A2 Passcode: 01z6%z6@ 
+|3&4| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)][[Video]( https://drive.google.com/file/d/1PWMVticrPbjWywqxCEgsXoCbMvZ43OJ6/view?usp=sharing)]|
+|5| 10 Jan| Decision Tree 1 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://drive.google.com/file/d/1x7_OXxrMJHEGcZPpJj5RgwYwyi_EBY4i/view?usp=sharing)]|
 {% comment %}
 This is a long comment string 
 
@@ -24,7 +25,7 @@ Newline
 Stuff
 
 
-|3| 15 Jan| Decision Tree 1 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbGpNzErCplEgUJjM0LfScABWM8-0GJaPz9YgNv3zBNgOw)]|
+
 |4| 16 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbMdXJ4zF8VArX7ATDZXEvIBEdwciOj2DcXBxVj2QT3L8g?e=wKHWsK)]|
 |5| 22 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ET9ZuKGdQppKgOx1Jq7lDXIBfKzenXfc7owKZxLPkm1cgw?e=TictRi)]|
 |6| 24 Jan| Maths ML [[Slides](../lectures/ml-maths-1.pdf)] Linear Regression [[Slides](../lectures/linear-regression.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ETTKiHJo-glAvIDEjLoeIXIBiNH3KAQpTS8OfkfKWpkliQ?e=wwpFee)]|
