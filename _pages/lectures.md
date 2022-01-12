@@ -17,7 +17,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |2| 6 Jan|Introduction [[Slides](../lectures/1-introduction.pdf)][[Video](https://drive.google.com/file/d/1kqmYZGIh_094UpVOvsFSJuJVI_vB-KlW/view?usp=sharing)]|
 |3&4| 8 Jan| Convention, Metrics, Classification, Regression [[Slides](../lectures/accuracy.pdf)][[Video]( https://drive.google.com/file/d/1PWMVticrPbjWywqxCEgsXoCbMvZ43OJ6/view?usp=sharing)]|
 |5| 10 Jan| Decision Tree 1 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://drive.google.com/file/d/1x7_OXxrMJHEGcZPpJj5RgwYwyi_EBY4i/view?usp=sharing)]|
-|6| 12 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-1.pdf)][[Video](hhttps://drive.google.com/file/d/1wrIA_oRC34_14Vxf0mjduCw0HcAXbdoi/view?usp=sharing)]|
+|6| 12 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://drive.google.com/file/d/1wrIA_oRC34_14Vxf0mjduCw0HcAXbdoi/view?usp=sharing)]|
 {% comment %}
 This is a long comment string 
 
