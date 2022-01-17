@@ -20,6 +20,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |6| 12 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-1.pdf)][[Video](https://drive.google.com/file/d/1wrIA_oRC34_14Vxf0mjduCw0HcAXbdoi/view?usp=sharing)]|
 |7| 13 Jan| Quiz 1 [[PDF](../lectures/Quiz1.pdf)]|
 |8| 15 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://drive.google.com/file/d/1jJD_fdVdUoZ8qE7iLaK2W2aPviR1MK-9/view?usp=sharing)]|
+|9|17 Jan| Cross validation [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://drive.google.com/file/d/18TttLoNNaZlZEo8AaMntCE-8zSjax3m6/view?usp=sharing)]|
 {% comment %}
 This is a long comment string 
 
