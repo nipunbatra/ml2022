@@ -21,6 +21,8 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |7| 13 Jan| Quiz 1 [[PDF](../lectures/Quiz1.pdf)]|
 |8| 15 Jan| Decision Tree 2 [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://drive.google.com/file/d/1jJD_fdVdUoZ8qE7iLaK2W2aPviR1MK-9/view?usp=sharing)]|
 |9|17 Jan| Cross validation [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://drive.google.com/file/d/18TttLoNNaZlZEo8AaMntCE-8zSjax3m6/view?usp=sharing)]|
+|10| 19 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/10WzkcXE99w5NCuatSoK9CI5SADwudbnt/view?usp=sharing)]|
+
 {% comment %}
 This is a long comment string 
 
@@ -31,7 +33,6 @@ Stuff
 
 
 
-|5| 22 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ET9ZuKGdQppKgOx1Jq7lDXIBfKzenXfc7owKZxLPkm1cgw?e=TictRi)]|
 |6| 24 Jan| Maths ML [[Slides](../lectures/ml-maths-1.pdf)] Linear Regression [[Slides](../lectures/linear-regression.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ETTKiHJo-glAvIDEjLoeIXIBiNH3KAQpTS8OfkfKWpkliQ?e=wwpFee)]|
 |7| 29 Jan| Geometric Interpretation of Least Squares [[Slides](../lectures/geometric-regression.pdf)] Contour plot [[Slides](../lectures/contour.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EYdl3pO8NihIlg4cDpEbuxkBekx-SxibWaMh7rCkq7NI8Q?e=H9FanK)]|
 |8| 31 Jan| Linear Regression II [[Slides](../lectures/linear-regression-2.pdf)] Convexity [[Slides](../lectures/convexity.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ES3jFXCvNc1Cry-j0vKkp7YBXNpL6BgeIxI6UtApq6-i8Q?e=xfZU5N)]|
