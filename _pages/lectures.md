@@ -23,6 +23,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |9|17 Jan| Cross validation [[Slides](../lectures/decision-tree-2-bias-variance-1.pdf)][[Video](https://drive.google.com/file/d/18TttLoNNaZlZEo8AaMntCE-8zSjax3m6/view?usp=sharing)]|
 |10| 19 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/10WzkcXE99w5NCuatSoK9CI5SADwudbnt/view?usp=sharing)]|
 |11| 20 Jan| Ensemble Learning 2 [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/1zdklV1RikvAC2uj7YJRtsIzfsiOifKzJ/view?usp=sharing)]|
+|12| 22 Jan| Ensemble Learning 2 [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/1t5SwUCj6oGmh4zbOWvA2DZhQ1J77pfT3/view?usp=sharing)]|
 
 {% comment %}
 This is a long comment string 
