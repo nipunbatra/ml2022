@@ -24,6 +24,9 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |10| 19 Jan| Ensemble Learning [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/10WzkcXE99w5NCuatSoK9CI5SADwudbnt/view?usp=sharing)]|
 |11| 20 Jan| Ensemble Learning 2 [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/1zdklV1RikvAC2uj7YJRtsIzfsiOifKzJ/view?usp=sharing)]|
 |12| 22 Jan| Ensemble Learning 2 [[Slides](../lectures/ensemble.pdf)][[Video](https://drive.google.com/file/d/1t5SwUCj6oGmh4zbOWvA2DZhQ1J77pfT3/view?usp=sharing)]|
+|13| 24 Jan| Maths ML [[Slides](../lectures/ml-maths-1.pdf)] [[Video](https://drive.google.com/file/d/1E7GVuL0IESZyGcAg98UQOfT99clFgQF1/view?usp=sharing)]|
+|14| 27 Jan| Linear Regression [[Slides](../lectures/linear-regression.pdf)]
+ [[Video](https://drive.google.com/file/d/1P9lkukEsV6s0y6Iz-uAMoXl39cCy_oS1/view?usp=sharing)]|
 
 {% comment %}
 This is a long comment string 
@@ -35,7 +38,6 @@ Stuff
 
 
 
-|6| 24 Jan| Maths ML [[Slides](../lectures/ml-maths-1.pdf)] Linear Regression [[Slides](../lectures/linear-regression.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ETTKiHJo-glAvIDEjLoeIXIBiNH3KAQpTS8OfkfKWpkliQ?e=wwpFee)]|
 |7| 29 Jan| Geometric Interpretation of Least Squares [[Slides](../lectures/geometric-regression.pdf)] Contour plot [[Slides](../lectures/contour.pdf)][[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EYdl3pO8NihIlg4cDpEbuxkBekx-SxibWaMh7rCkq7NI8Q?e=H9FanK)]|
 |8| 31 Jan| Linear Regression II [[Slides](../lectures/linear-regression-2.pdf)] Convexity [[Slides](../lectures/convexity.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ES3jFXCvNc1Cry-j0vKkp7YBXNpL6BgeIxI6UtApq6-i8Q?e=xfZU5N)]|
 |9| 5 Feb | Gradient Descent [[Slides](../lectures/Gradient-descent.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbYvSUDFUQtDss3o9ymHah8BBojAml3ZX8LcqEd6D9tHrA?e=UXXeuw)]|
