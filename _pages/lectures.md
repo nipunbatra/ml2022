@@ -27,6 +27,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |13| 24 Jan| Maths ML [[Slides](../lectures/ml-maths-1.pdf)] [[Video](https://drive.google.com/file/d/1E7GVuL0IESZyGcAg98UQOfT99clFgQF1/view?usp=sharing)]|
 |14| 27 Jan| Linear Regression [[Slides](../lectures/linear-regression.pdf)]
  [[Video](https://drive.google.com/file/d/1P9lkukEsV6s0y6Iz-uAMoXl39cCy_oS1/view?usp=sharing)]|
+|15| 31 Jan| Geometric Interpretation of Least Squares [[Slides](../lectures/geometric-regression.pdf)] Contour plot [[Slides](../lectures/contour.pdf)][[Video](https://drive.google.com/file/d/1dEn3iNjelijGklCAkHuzLnoPhSiozb8R/view?usp=sharing)]|
 
 {% comment %}
 This is a long comment string 
