@@ -30,7 +30,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |15| 31 Jan| Geometric Interpretation of Least Squares [[Slides](../lectures/geometric-regression.pdf)] Contour plot [[Slides](../lectures/contour.pdf)][[Video](https://drive.google.com/file/d/1dEn3iNjelijGklCAkHuzLnoPhSiozb8R/view?usp=sharing)]|
 |16| 2 Feb| Linear Regression II [[Slides](../lectures/linear-regression-2.pdf)] [[Video](https://drive.google.com/file/d/1LREW4Ogssa_pJvofDDBOMCgLGguixeDf/view?usp=sharing)]|
 |17| 3 Feb| Convexity [[Slides](../lectures/convexity.pdf)] [[Video](https://drive.google.com/file/d/13qrw59mfJbMLJQl7k6VNgwVclc_w-xVi/view?usp=sharing)]|
-
+|18| 5 Feb | Gradient Descent [[Slides](../lectures/Gradient-descent.pdf)] [[Video](https://drive.google.com/file/d/16b2FLGGVyT8ArAx-ceva0e4c_YD4SMWu/view?usp=sharing)]|
 {% comment %}
 This is a long comment string 
 
