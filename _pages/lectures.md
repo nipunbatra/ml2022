@@ -31,6 +31,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |16| 2 Feb| Linear Regression II [[Slides](../lectures/linear-regression-2.pdf)] [[Video](https://drive.google.com/file/d/1LREW4Ogssa_pJvofDDBOMCgLGguixeDf/view?usp=sharing)]|
 |17| 3 Feb| Convexity [[Slides](../lectures/convexity.pdf)] [[Video](https://drive.google.com/file/d/13qrw59mfJbMLJQl7k6VNgwVclc_w-xVi/view?usp=sharing)]|
 |18| 5 Feb | Gradient Descent [[Slides](../lectures/Gradient-descent.pdf)] [[Video](https://drive.google.com/file/d/16b2FLGGVyT8ArAx-ceva0e4c_YD4SMWu/view?usp=sharing)]|
+|19| 7 Feb | Linear Regression (Time Complexity) [[Slides](../lectures/normal-timecomplexity.pdf)] [[Video](https://drive.google.com/file/d/15ZSHDlUgDcyzx48iXbwYwZ8wCdKgtKZ0/view?usp=sharing)]|
 {% comment %}
 This is a long comment string 
 
@@ -42,7 +43,7 @@ Stuff
 
 |8| 31 Jan| Linear Regression II [[Slides](../lectures/linear-regression-2.pdf)] Convexity [[Slides](../lectures/convexity.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ES3jFXCvNc1Cry-j0vKkp7YBXNpL6BgeIxI6UtApq6-i8Q?e=xfZU5N)]|
 |9| 5 Feb | Gradient Descent [[Slides](../lectures/Gradient-descent.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EbYvSUDFUQtDss3o9ymHah8BBojAml3ZX8LcqEd6D9tHrA?e=UXXeuw)]|
-|10| 6 Feb | Linear Regression (Time Complexity) [[Slides](../lectures/normal-timecomplexity.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ERfGUKhtjZ5NqLy11kOGFLAB_1nxPQy-NH-naOA9yrtfZA?e=aD23hn)]|
+|10| 6 Feb | Linear Regression (Time Complexity) [[Slides](../lectures/normal-timecomplexity.pdf)] [[Video](https://drive.google.com/file/d/15ZSHDlUgDcyzx48iXbwYwZ8wCdKgtKZ0/view?usp=sharing)]|
 |11| 12 Feb| Constrained Optimisation [[Slides](../lectures/ml-maths-3.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/ERvzFFkA2s1Cnfm8hLdoLWkBT9nAEaDRlM00iIdzb_e0rQ?e=jbqrnq)]|
 |12| 13 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/EferPGBdiK5Oqriaca4yLcMBMqfutZZp5Y-avIBsAlSNoA?e=GkDAlE)]|
 |13| 19 Feb | Lasso Regression I [[Slides](../lectures/lasso-regression.pdf)] [[Video](https://iitgnacin-my.sharepoint.com/:v:/g/personal/nipun_batra_iitgn_ac_in/Ebnm8dB1RCpFsHeqBINbFXcBsJVW1A_momxDjYK2n0ABGA?e=cXSYON)] |
