@@ -33,7 +33,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |18| 5 Feb | Gradient Descent [[Slides](../lectures/Gradient-descent.pdf)] [[Video](https://drive.google.com/file/d/16b2FLGGVyT8ArAx-ceva0e4c_YD4SMWu/view?usp=sharing)]|
 |19| 7 Feb | Linear Regression (Time Complexity) [[Slides](../lectures/normal-timecomplexity.pdf)] [[Video](https://drive.google.com/file/d/15ZSHDlUgDcyzx48iXbwYwZ8wCdKgtKZ0/view?usp=sharing)]|
 |20| 9 Feb| Constrained Optimisation [[Slides](../lectures/ml-maths-3.pdf)] [[Video](https://drive.google.com/file/d/1PmKTnfsqEBNWUCegngY2DNfBiyuq2-wN/view?usp=sharing)]|
-|21| 10 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/15c_oeiLyFHzlmJRZh6cZ3PeGRWTB2vsz/view?usp=sharing)][Notebook](../lectures/ridge_notebook.ipynb) [Hugging Face demo](https://huggingface.co/spaces/Nipun/RidgeDemo)|
+|21| 10 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/15c_oeiLyFHzlmJRZh6cZ3PeGRWTB2vsz/view?usp=sharing)][[Notebook](https://github.com/nipunbatra/ml2022/blob/master/lectures/ridge-notebook.ipynb)] [[Hugging Face demo](https://huggingface.co/spaces/Nipun/RidgeDemo)]|
 
 {% comment %}
 This is a long comment string 
