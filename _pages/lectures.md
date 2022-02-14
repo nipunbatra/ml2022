@@ -34,6 +34,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |19| 7 Feb | Linear Regression (Time Complexity) [[Slides](../lectures/normal-timecomplexity.pdf)] [[Video](https://drive.google.com/file/d/15ZSHDlUgDcyzx48iXbwYwZ8wCdKgtKZ0/view?usp=sharing)]|
 |20| 9 Feb| Constrained Optimisation [[Slides](../lectures/ml-maths-3.pdf)] [[Video](https://drive.google.com/file/d/1PmKTnfsqEBNWUCegngY2DNfBiyuq2-wN/view?usp=sharing)]|
 |21| 10 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/15c_oeiLyFHzlmJRZh6cZ3PeGRWTB2vsz/view?usp=sharing)][[Notebook](https://github.com/nipunbatra/ml2022/blob/master/lectures/ridge-notebook.ipynb)] [[Hugging Face demo](https://huggingface.co/spaces/Nipun/RidgeDemo)]|
+|22| 14 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/1npUAJqByRD-5zTngiAf54fb7pdQ3F2jo/view?usp=sharing)][[Notebook](https://github.com/nipunbatra/ml2022/blob/master/lectures/ridge-2.ipynb)] [[Hugging Face demo (updated)](https://huggingface.co/spaces/Nipun/RidgeDemo)]|
 
 {% comment %}
 This is a long comment string 
