@@ -35,6 +35,8 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |20| 9 Feb| Constrained Optimisation [[Slides](../lectures/ml-maths-3.pdf)] [[Video](https://drive.google.com/file/d/1PmKTnfsqEBNWUCegngY2DNfBiyuq2-wN/view?usp=sharing)]|
 |21| 10 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/15c_oeiLyFHzlmJRZh6cZ3PeGRWTB2vsz/view?usp=sharing)][[Notebook](https://github.com/nipunbatra/ml2022/blob/master/lectures/ridge-notebook.ipynb)] [[Hugging Face demo](https://huggingface.co/spaces/Nipun/RidgeDemo)]|
 |22| 14 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/1npUAJqByRD-5zTngiAf54fb7pdQ3F2jo/view?usp=sharing)][[Notebook](https://github.com/nipunbatra/ml2022/blob/master/lectures/ridge-2.ipynb)] [[Hugging Face demo (updated)](https://huggingface.co/spaces/Nipun/RidgeDemo)]|
+|23| 16 Feb| Ridge Regression [[Slides](../lectures/ridge-regression.pdf)] [[Video](https://drive.google.com/file/d/1dHU1EokueShoSY1IAjSNSJPdmLKv0YyC/view?usp=sharing)]|
+|24| 18 Feb | Lasso Regression I [[Slides](../lectures/lasso-regression.pdf)] [[Video](https://drive.google.com/file/d/10nm0rf4h_QVUOP6lB99PpXhcZ5lE3IXJ/view?usp=sharing)] |
 
 {% comment %}
 This is a long comment string 
