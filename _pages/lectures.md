@@ -39,6 +39,8 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |24| 18 Feb | Lasso Regression I [[Slides](../lectures/lasso-regression.pdf)] [[Video](https://drive.google.com/file/d/10nm0rf4h_QVUOP6lB99PpXhcZ5lE3IXJ/view?usp=sharing)] |
 |25| 21 Feb | Lasso Regression II [[Slides](../lectures/lasso-regression.pdf)] [[Video](https://drive.google.com/file/d/1e_U-1Z6aw3JCL78KTMG7kz53D5mq8i6O/view?usp=sharing)] |
 |26| 23 Feb | Bayesian Learning [[Slides](../lectures/bayesian1.pdf)] |
+|27| 24 Feb | Bayesian Learning [[Slides](../lectures/bayesian1.pdf)] |[[Video](https://drive.google.com/file/d/1LdWe4-hlgyXBIBhWT1TObU0qxe4c3Rxo/view?usp=sharing)] |
+
 
 {% comment %}
 This is a long comment string 
