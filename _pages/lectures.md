@@ -43,7 +43,7 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |28| 14 Mar | Bayesian Linear Regression [[Slides](../lectures/bayesian-regression1.pdf)]||
 |29| 16 Mar | Bayesian Linear Regression [[Slides](../lectures/bayesian-regression1.pdf)]||
 |30| 17 Mar | Logistic Regression I [[Slides](../lectures/logistic-regression.pdf)] ||
-|31| 23 Mar| Logistic Regression II [[Logistic regression cost derivation - 1](../lectures/lrnotes-1.pdf)], [Part 2 ((../lectures/lrnotes-2.pdf))]], [3Blue1Brown video on Taylor series](https://www.youtube.com/watch?v=3d6DsjIBzJ4), [Taylor series -> Gradient descent](https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf)
+|31| 23 Mar| Logistic Regression II [Logistic regression cost derivation - 1](../lectures/lrnotes-1.pdf), [Part 2](../lectures/lrnotes-2.pdf)], [3Blue1Brown video on Taylor series](https://www.youtube.com/watch?v=3d6DsjIBzJ4), [Taylor series -> Gradient descent](https://www.cs.princeton.edu/courses/archive/fall18/cos597G/lecnotes/lecture3.pdf)
 
 
 
