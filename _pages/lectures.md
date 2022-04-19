@@ -50,8 +50,8 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |35| 31 Apr | CNN [[Slides](../lectures/24-CNN.pdf)]|
 |36| ... | Naive Bayes [[Slides](../lectures/bayesian-nets.pdf)]|
 |37| ... | SVM -1 [[Slides](../lectures/svm-intro.pdf)]|
-|38| ... | SVM kernel and soft margin [[Slides 1](../lectures/svm-kernel.pdf)] [[Slides 2](../lectures/svm-soft-margin.pdf)] |
-|39| ... | Unsupervised Learning |
+|38| ... | SVM kernel and soft margin [[Slides 1](../lectures/svm-kernel.pdf)] [[Video](https://www.youtube.com/watch?v=MhjxDACIVWM&list=PLftoLyLEwECCQjh7OTmrteMveaomqpVF0&index=48&t=11s)]| [Article from Jake Vanderplas'book](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html) [[Slides 2](../lectures/svm-soft-margin.pdf)] [[Video](https://www.youtube.com/watch?v=yY6-LUerLcs&list=PLftoLyLEwECCQjh7OTmrteMveaomqpVF0&index=49&t=3s)] |
+|39| ... | Unsupervised learning [[Slides](../lectures/31-unsupervised.pdf)][[Video](https://www.youtube.com/watch?v=UVTDW2_2IZQ)]|
 
 
 
