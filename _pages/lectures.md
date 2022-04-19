@@ -48,6 +48,10 @@ https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sha
 |33| 28 Apr |  MLP1 [[Slides](../lectures/23-neural-networks.pdf)]|
 |34| 30 Apr | CNN [[Slides](../lectures/24-CNN.pdf)]|
 |35| 31 Apr | CNN [[Slides](../lectures/24-CNN.pdf)]|
+|36| ... | Naive Bayes [[Slides](../lectures/bayesian-nets.pdf)]|
+|37| ... | SVM -1 [[Slides](../lectures/svm-intro.pdf)]|
+|38| ... | SVM kernel and soft margin [[Slides 1](../lectures/svm-kernel.pdf)] [[Slides 2](../lectures/svm-soft-margin.pdf)] |
+|39| ... | Unsupervised Learning |
 
 
 
