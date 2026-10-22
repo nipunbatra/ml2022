@@ -1,0 +1,11 @@
+<!-- Course dates, shared by Assessment. Write dates as "08 Oct 19" or "08 Oct 19, 6:30 pm" (IST);
+     the page greys out past rows from the date in the browser. -->
+
+::: {.dates}
+
+| Date | Event |
+|---|---|
+| 05 Jan 22 | First lecture |
+| 13 Jan 22 | **Quiz 1**, in class ([paper](lectures/Quiz1.pdf)) |
+
+:::

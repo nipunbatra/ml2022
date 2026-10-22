@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "feedback/index.html",
+    "href": "feedback/index.html",
+    "title": "Feedback",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    FAQ and grading\n    Project ideas\n  \n\n\n\n\n\n\nThis page has moved: go to the course home page."
+  },
+  {
+    "objectID": "assessment.html",
+    "href": "assessment.html",
+    "title": "Assessment",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    FAQ and grading\n    Project ideas\nDates, the grading policy and the quiz papers of the January–April 2022 offering. The grading policy and the course FAQ are kept in a shared document."
+  },
+  {
+    "objectID": "assessment.html#deadlines",
+    "href": "assessment.html#deadlines",
+    "title": "Assessment",
+    "section": "Dates",
+    "text": "Dates\n\n\n\n\n\nDate\nEvent\n\n\n\n\n05 Jan 22\nFirst lecture\n\n\n13 Jan 22\nQuiz 1, in class (paper)"
+  },
+  {
+    "objectID": "assessment.html#grading",
+    "href": "assessment.html#grading",
+    "title": "Assessment",
+    "section": "Grading",
+    "text": "Grading\nThe grading policy is in the course FAQ and grading policy document. You have comment access: comment on it to ask for more details.\n\nProject\nChoose from the list of project ideas. You have comment access: comment on it to ask the TAs for more details."
+  },
+  {
+    "objectID": "assessment.html#quizzes",
+    "href": "assessment.html#quizzes",
+    "title": "Assessment",
+    "section": "Quizzes",
+    "text": "Quizzes\n\nQuizDateTopicsPaper\n\nQuiz 113 JanEntropy and decision treesPaper (PDF)\nQuizNot recordedRank, convexity, weighted linear regression and ridge regressionPaper (PDF)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    FAQ and grading\n    Project ideas\n  \n\n\n\n\n\n\n\n\n\nMachine Learning\nES 654 · IIT Gandhinagar · Semester II, 2021–22\nES 654 introduces machine learning: metrics, decision trees and ensembles, linear regression with gradient descent, ridge and lasso, Bayesian learning and logistic regression, neural networks and CNNs, naive Bayes, support vector machines and unsupervised learning. Every lecture links its slides, and most link a class recording.\n\n  InstructorProf. Nipun Batra\n  Emailnipun.batra@iitgn.ac.in\n  ClassesMonday 10:05–11:00 am, Wednesday 9:05–10:00 am, Thursday 10:05–11:00 am\n  OnlineZoom link\n  Google ClassroomCode jclv62l\n  Teaching assistants4 TAs\n  PrerequisitesGood experience in Python programming, probability and linear algebra\n\n\n\nCourse record\nThis offering ran from January to April 2022. Its slides, class recordings and quiz papers remain available.\n\n  Lectures39\n  RecordingsOn Google Drive\n  Quiz papers2\n  PoliciesFAQ and grading\n\nAll dates\n\n\nLectures\n\n  1–4Introduction and metrics4 lectures\n  5–12Decision trees and ensembles8 lectures\n  13–25Linear regression and optimisation13 lectures\n  26–31Bayesian learning and logistic regression6 lectures\n  32–35Neural networks4 lectures\n  36–39Naive Bayes, SVMs and unsupervised learning4 lectures\n\n\n  All recordings (Google Drive)\n  Class spreadsheets (Google Drive)\n  All 39 lectures\n\n\n\n\nQuestions\nWhere are the grading policy and the course FAQ?In the course FAQ and grading policy document. You have comment access: comment on it to ask for more details.\nWhere can I find project ideas?In the list of project ideas. You have comment access: comment on it to ask the TAs for more details.\nWhat are the prerequisites?Good experience in Python programming, probability and linear algebra.\nHow do I prepare before the course?Refresh the prerequisites with the first four chapters of the Python Data Science Handbook, some material on linear algebra and Khan Academy's course on statistics and probability.\nWhere are the class recordings?Each lecture on the Lectures page links its recording where one exists, and all of them are in a Google Drive folder. Spreadsheets used in class are in another folder.\n\nReferences\nReference textbooks:\n\n  Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, An Introduction to Statistical Learning with Applications in R (online)\n  Christopher M. Bishop, Pattern Recognition and Machine Learning, Springer, 2006 (free PDF)\n  Jerome Friedman, Trevor Hastie and Robert Tibshirani, The Elements of Statistical Learning, Springer, 2001 (free PDF)\n  Richard O. Duda, Peter E. Hart and David G. Stork, Pattern Classification, John Wiley & Sons, 2012\n  Tom M. Mitchell, Machine Learning, McGraw Hill, 1997\n  Kevin P. Murphy, Machine Learning: A Probabilistic Perspective, MIT Press\n  Ian Goodfellow, Yoshua Bengio and Aaron Courville, Deep Learning, MIT Press, 2016 (online)\n\nOther machine learning courses:\n\n  NPTEL course by Balaraman Ravindran\n  CMU course by Tom Mitchell and Maria-Florina Balcan\n  Coursera course by Andrew Ng\n  fast.ai course on ML and Practical deep learning for coders\n  Course by Alex Ihler, UCI\n\n\n\n\nTeaching assistants\n\n  Zeel Patel\n  Rishiraj Adhikaryrishiraj.a@iitgn.ac.in\n  Shriraj Sawant\n  Hetvi Shastri"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    FAQ and grading\n    Project ideas\n  \n\n\n\n\n\n\n\nEvery class of the January–April 2022 offering, numbered as in class, with its slides, recordings, notes and notebooks.\nNotesSlidesPDF handoutFull recordingNotebookInteractive labReading\nIntroduction and metrics1–4Decision trees and ensembles5–12Linear regression and optimisation13–25Bayesian learning and logistic regression26–31Neural networks32–35Naive Bayes, SVMs and unsupervised learning36–39\nAll recordings (Google Drive)Class spreadsheets (Google Drive)\n\nIntroduction and metricsLectures 1–4\n\nLecture 01Introduction\nSlidesRecording\nLecture 02Introduction (continued)\nSlidesRecording\nLecture 03Conventions, metrics, classification and regressionLectures 3 and 4 were a double class.\nSlidesRecording\nLecture 04Conventions, metrics, classification and regression (continued)Second half of the double class; slides and recording as in lecture 3.\nSlidesRecording\n\n\nDecision trees and ensemblesLectures 5–12\n\nLecture 05Decision trees I\nSlidesRecording\nLecture 06Decision trees II\nSlidesRecording\nLecture 07Quiz 1Held in class.\nQuiz paper\nLecture 08Decision trees II (continued)\nSlides: Decision trees II, bias and varianceRecording\nLecture 09Cross-validation\nSlides: Decision trees II, bias and varianceRecording\nLecture 10Ensemble learning I\nSlidesRecording\nLecture 11Ensemble learning II\nSlidesRecording\nLecture 12Ensemble learning II (continued)\nSlidesRecording\n\n\nLinear regression and optimisationLectures 13–25\n\nLecture 13Maths for ML\nSlidesRecording\nLecture 14Linear regression\nSlidesRecording\nLecture 15Geometric interpretation of least squares; contour plots\nSlides: Geometric interpretation of least squaresSlides: Contour plotsRecording\nLecture 16Linear regression II\nSlidesRecording\nLecture 17Convexity\nSlidesRecording\nLecture 18Gradient descent\nSlidesRecording\nLecture 19Linear regression: time complexity\nSlidesRecording\nLecture 20Constrained optimisation\nSlidesRecording\nLecture 21Ridge regression\nSlidesRecordingNotebook: Ridge regressionHugging Face demo: Ridge regression\nLecture 22Ridge regression (continued)\nSlidesRecordingNotebook: Ridge regression IIHugging Face demo: Ridge regression (updated)\nLecture 23Ridge regression (continued)\nSlidesRecording\nLecture 24Lasso regression I\nSlidesRecording\nLecture 25Lasso regression II\nSlidesRecording\n\n\nBayesian learning and logistic regressionLectures 26–31\n\nLecture 26Bayesian learning\nSlides\nLecture 27Bayesian learning (continued)\nSlidesRecording\nLecture 28Bayesian linear regression\nSlides\nLecture 29Bayesian linear regression (continued)\nSlides\nLecture 30Logistic regression I\nSlides\nLecture 31Logistic regression II\nNotes: Logistic regression cost derivation, part 1Notes: Part 2Reading: From Taylor series to gradient descentVideo: Taylor series (3Blue1Brown)\n\n\nNeural networksLectures 32–35\n\nLecture 32Multilayer perceptrons\nSlides\nLecture 33Multilayer perceptrons (continued)\nSlides\nLecture 34Convolutional neural networks\nSlides\nLecture 35Convolutional neural networks (continued)\nSlides\n\n\nNaive Bayes, SVMs and unsupervised learningLectures 36–39\n\nLecture 36Naive Bayes\nSlides\nLecture 37Support vector machines I\nSlides\nLecture 38SVM kernels and soft margin\nSlides: KernelsSlides: Soft marginReading: Jake VanderPlas, Support vector machinesVideo: SVM kernelsVideo: SVM soft margin\nLecture 39Unsupervised learning\nSlidesVideo: Unsupervised learning\n\n\n\nSlides are the PDFs used in class; recordings are on Google Drive. Lecture 7 was Quiz 1, held in class."
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "ES 654\n  IIT Gandhinagar\n  \n  \n    Home\n    Lectures\n    Assessment\n    FAQ and grading\n    Project ideas\n  \n\n\n\n\n\n\nThis page has moved: go to Lectures."
+  }
+]

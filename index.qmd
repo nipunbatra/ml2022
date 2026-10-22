@@ -1,0 +1,98 @@
+---
+pagetitle: "ES 654 · Machine Learning 2022"
+description: "Machine Learning at IIT Gandhinagar, Semester II 2021–22"
+body-classes: dl wide
+---
+
+::: {.top}
+
+::: {.top-main}
+```{=html}
+<span hidden></span><!-- keeps Quarto from moving the h1 into its own title block -->
+<h1 class="h1">Machine Learning</h1>
+<p class="role">ES 654 · IIT Gandhinagar · Semester II, 2021–22</p>
+<p class="lede" style="margin-top:18px">ES 654 introduces machine learning: metrics, decision trees and ensembles, linear regression with gradient descent, ridge and lasso, Bayesian learning and logistic regression, neural networks and CNNs, naive Bayes, support vector machines and unsupervised learning. Every lecture links its slides, and most link a class recording.</p>
+<dl class="facts">
+  <dt>Instructor</dt><dd><a href="https://nipunbatra.github.io">Prof. Nipun Batra</a></dd>
+  <dt>Email</dt><dd><a href="mailto:nipun.batra@iitgn.ac.in">nipun.batra@iitgn.ac.in</a></dd>
+  <dt>Classes</dt><dd>Monday 10:05–11:00 am, Wednesday 9:05–10:00 am, Thursday 10:05–11:00 am</dd>
+  <dt>Online</dt><dd><a href="https://iitgn-ac-in.zoom.us/j/96523429150">Zoom link</a></dd>
+  <dt>Google Classroom</dt><dd>Code jclv62l</dd>
+  <dt>Teaching assistants</dt><dd><a href="#people">4 TAs</a></dd>
+  <dt>Prerequisites</dt><dd>Good experience in Python programming, probability and linear algebra</dd>
+</dl>
+```
+:::
+
+::: {.next aria-labelledby="record-h"}
+```{=html}
+<span class="label" id="record-h">Course record</span>
+<p class="small" style="margin:0 0 12px">This offering ran from January to April 2022. Its slides, class recordings and quiz papers remain available.</p>
+<dl>
+  <dt>Lectures</dt><dd><a href="schedule.html"><span class="stat">39</span></a></dd>
+  <dt>Recordings</dt><dd><a href="https://drive.google.com/drive/folders/1xC6qiifQGrpoYb1-TVeMQmyYi2c9Nk7j?usp=sharing">On Google Drive</a></dd>
+  <dt>Quiz papers</dt><dd><a href="assessment.html#quizzes">2</a></dd>
+  <dt>Policies</dt><dd><a href="https://docs.google.com/document/d/1MXBjf61zCMC_WjkscGDxaX1EcHrAHDpYRIKaYsM2Adw/edit?usp=sharing">FAQ and grading</a></dd>
+</dl>
+<p class="all"><a href="assessment.html#deadlines">All dates</a></p>
+```
+:::
+
+:::
+
+```{=html}
+<section class="rule-top" id="lectures"><h2>Lectures</h2>
+<ul class="modules c6">
+  <li><span class="r">1–4</span><a href="schedule.html#introduction">Introduction and metrics</a><span class="c">4 lectures</span></li>
+  <li><span class="r">5–12</span><a href="schedule.html#trees-ensembles">Decision trees and ensembles</a><span class="c">8 lectures</span></li>
+  <li><span class="r">13–25</span><a href="schedule.html#linear-regression">Linear regression and optimisation</a><span class="c">13 lectures</span></li>
+  <li><span class="r">26–31</span><a href="schedule.html#bayesian-logistic">Bayesian learning and logistic regression</a><span class="c">6 lectures</span></li>
+  <li><span class="r">32–35</span><a href="schedule.html#neural-networks">Neural networks</a><span class="c">4 lectures</span></li>
+  <li><span class="r">36–39</span><a href="schedule.html#bayes-svm-unsupervised">Naive Bayes, SVMs and unsupervised learning</a><span class="c">4 lectures</span></li>
+</ul>
+<div class="playlists">
+  <a class="btn ib" href="https://drive.google.com/drive/folders/1xC6qiifQGrpoYb1-TVeMQmyYi2c9Nk7j?usp=sharing" target="_blank" rel="noopener noreferrer"><svg class="ic ic-recording" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>All recordings (Google Drive)</a>
+  <a class="btn ib" href="https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sharing" target="_blank" rel="noopener noreferrer"><svg class="ic ic-link" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4.5 4.5 0 0 0 6.4 0l3-3a4.5 4.5 0 0 0-6.4-6.4l-1.2 1.2"/><path d="M14 10a4.5 4.5 0 0 0-6.4 0l-3 3a4.5 4.5 0 0 0 6.4 6.4l1.2-1.2"/></svg>Class spreadsheets (Google Drive)</a>
+  <a class="btn solid" href="schedule.html">All 39 lectures</a>
+</div>
+</section>
+
+<div class="two rule-top">
+<section id="faq"><h2>Questions</h2>
+<details class="q" id="grading"><summary>Where are the grading policy and the course FAQ?</summary><p>In the <a href="https://docs.google.com/document/d/1MXBjf61zCMC_WjkscGDxaX1EcHrAHDpYRIKaYsM2Adw/edit?usp=sharing">course FAQ and grading policy</a> document. You have comment access: comment on it to ask for more details.</p></details>
+<details class="q" id="project"><summary>Where can I find project ideas?</summary><p>In the <a href="https://docs.google.com/document/d/1sX0YCbHTRPQ9kGPWyuFHIgjkqjbtQjLPsIxW6lUvO04/edit?usp=sharing">list of project ideas</a>. You have comment access: comment on it to ask the TAs for more details.</p></details>
+<details class="q" id="prereqs"><summary>What are the prerequisites?</summary><p>Good experience in Python programming, probability and linear algebra.</p></details>
+<details class="q" id="prepare"><summary>How do I prepare before the course?</summary><p>Refresh the prerequisites with the first four chapters of the <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Handbook</a>, <a href="https://machinelearningmastery.com/linear-algebra-machine-learning/">some material on linear algebra</a> and <a href="https://www.khanacademy.org/math/statistics-probability">Khan Academy's course on statistics and probability</a>.</p></details>
+<details class="q" id="recordings"><summary>Where are the class recordings?</summary><p>Each lecture on the <a href="schedule.html">Lectures</a> page links its recording where one exists, and all of them are in a <a href="https://drive.google.com/drive/folders/1xC6qiifQGrpoYb1-TVeMQmyYi2c9Nk7j?usp=sharing">Google Drive folder</a>. Spreadsheets used in class are in <a href="https://drive.google.com/drive/folders/1Nr23dXUI-2sxr0YSuqa2tm9rbpM773uJ?usp=sharing">another folder</a>.</p></details>
+</section>
+<section id="references"><h2>References</h2>
+<p class="small muted">Reference textbooks:</p>
+<ul class="refs">
+  <li>Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani, <i>An Introduction to Statistical Learning with Applications in R</i> (<a href="http://www-bcf.usc.edu/~gareth/ISL/">online</a>)</li>
+  <li>Christopher M. Bishop, <i>Pattern Recognition and Machine Learning</i>, Springer, 2006 (<a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">free PDF</a>)</li>
+  <li>Jerome Friedman, Trevor Hastie and Robert Tibshirani, <i>The Elements of Statistical Learning</i>, Springer, 2001 (<a href="https://web.stanford.edu/~hastie/Papers/ESLII.pdf">free PDF</a>)</li>
+  <li>Richard O. Duda, Peter E. Hart and David G. Stork, <i>Pattern Classification</i>, John Wiley &amp; Sons, 2012</li>
+  <li>Tom M. Mitchell, <i>Machine Learning</i>, McGraw Hill, 1997</li>
+  <li>Kevin P. Murphy, <i>Machine Learning: A Probabilistic Perspective</i>, MIT Press</li>
+  <li>Ian Goodfellow, Yoshua Bengio and Aaron Courville, <i>Deep Learning</i>, MIT Press, 2016 (<a href="https://www.deeplearningbook.org/">online</a>)</li>
+</ul>
+<p class="small muted" style="margin-top:14px">Other machine learning courses:</p>
+<ul class="refs">
+  <li><a href="https://www.youtube.com/watch?v=r4sgKrRL2Ys&amp;list=PL1xHD4vteKYVpaIiy295pg6_SY5qznc77">NPTEL course</a> by Balaraman Ravindran</li>
+  <li><a href="http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml">CMU course</a> by Tom Mitchell and Maria-Florina Balcan</li>
+  <li><a href="https://www.coursera.org/learn/machine-learning">Coursera course</a> by Andrew Ng</li>
+  <li><a href="https://course.fast.ai/ml">fast.ai course on ML</a> and <a href="https://course.fast.ai/index.html">Practical deep learning for coders</a></li>
+  <li><a href="http://sli.ics.uci.edu/Classes/2015W-273a">Course by Alex Ihler</a>, UCI</li>
+</ul>
+</section>
+</div>
+
+<section class="rule-top" id="people"><h2>Teaching assistants</h2>
+<ul class="people">
+  <li>Zeel Patel</li>
+  <li>Rishiraj Adhikary<span class="muted">rishiraj.a@iitgn.ac.in</span></li>
+  <li>Shriraj Sawant</li>
+  <li>Hetvi Shastri</li>
+</ul>
+</section>
+```
