@@ -14,7 +14,6 @@ website:
   title: "ES 654 · Machine Learning 2022"
   favicon: favicon.svg
   description: "Machine Learning at IIT Gandhinagar, January–April 2022"
-  site-url: https://nipunbatra.github.io/ml2022/
   search: false
 
 format:
